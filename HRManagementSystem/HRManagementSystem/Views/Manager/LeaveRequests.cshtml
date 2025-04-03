@@ -50,14 +50,14 @@
                     <td>
                         @if (leave.Status == "Pending")
                         {
-                            <form method="post" asp-action="ApproveVacc" asp-controller="Manager" class="d-inline">
+                            <form method="post" asp-action="ApproveLeave" asp-controller="Manager" class="d-inline">
                                 <input type="hidden" name="id" value="@leave.Id" />
                                 <button type="submit" class="btn btn-success btn-sm">
                                     <i class="fas fa-check me-2"></i> Approve
                                 </button>
                             </form>
 
-                            <form method="post" asp-action="RejectVacc" asp-controller="Manager" class="d-inline">
+                            <form method="post" asp-action="RejectLeave" asp-controller="Manager" class="d-inline">
                                 <input type="hidden" name="id" value="@leave.Id" />
                                 <button type="submit" class="btn btn-danger btn-sm">
                                     <i class="fas fa-times me-2"></i> Reject

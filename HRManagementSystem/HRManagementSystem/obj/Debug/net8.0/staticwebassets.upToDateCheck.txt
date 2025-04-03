@@ -96,6 +96,7 @@ wwwroot\images\logo.png
 wwwroot\images\logo-dark.png
 wwwroot\images\map_light.jpg
 wwwroot\images\map_marker_icon.png
+wwwroot\images\nada.jpg
 wwwroot\images\partners\01.jpg
 wwwroot\images\partners\02.jpg
 wwwroot\images\partners\03.jpg
@@ -173,15 +174,23 @@ wwwroot\images\team\testimonials_03.jpg
 wwwroot\images\video_1.jpg
 wwwroot\images\video_2.jpg
 wwwroot\images\video_3.jpg
+wwwroot\images\zaid.jpg
 wwwroot\img\003bf675-8d14-4552-a532-8792cde101cb_evaluation.png
 wwwroot\img\25442edb-ee33-4bde-8634-420b8c89579d_managerIcon.png
+wwwroot\img\2fd437ee-f641-4375-b2f9-ef4fca3125a0_Zaid.jpg
 wwwroot\img\348dff76-1d3a-4643-9279-a23c15d958e5.png
+wwwroot\img\36e46a5c-8373-4518-8a35-317200f1c908.jpg
 wwwroot\img\404.jpg
+wwwroot\img\41cb1be8-ee0b-4b22-94e6-e6c0ea758c3a.png
+wwwroot\img\502ee4b0-e60f-4dca-a1d6-95cb115d71ca.png
 wwwroot\img\73d4f9ec-0917-4eeb-be46-25eae26aa4aa_managerIcon.png
+wwwroot\img\7d82d3d8-bdc9-4db8-876e-55f7f492fdc5.jpg
 wwwroot\img\82d43e4f-6f50-483d-898b-c1581e7c64a9_evaluation.png
+wwwroot\img\9cf692bb-63c5-42ae-b11d-49cefc8ee4d8.jpg
 wwwroot\img\9d9ec9a6-d220-4e5d-b8d8-0f646ad4044c.png
 wwwroot\img\9fc8479c-ee3f-45cb-a168-69345b67914c_managerIcon.png
 wwwroot\img\a83b8c79-b717-434b-8f38-0c537d0f6e2c_managerIcon.png
+wwwroot\img\aa1c1134-ec2b-417f-80a4-a6b848f829ee.png
 wwwroot\img\account.png
 wwwroot\img\Amer.jpg
 wwwroot\img\Ayman.jpg
@@ -223,6 +232,7 @@ wwwroot\img\menu.png
 wwwroot\img\mike.jpg
 wwwroot\img\Mohammed.jpg
 wwwroot\img\mouse_icon.png
+wwwroot\img\nada.jpg
 wwwroot\img\owl.video.play.png
 wwwroot\img\parallax\copyright_bg.jpg
 wwwroot\img\parallax\footer_bg.png
@@ -268,6 +278,7 @@ wwwroot\img\video.png
 wwwroot\img\videoplayback.mp4
 wwwroot\img\White and Black Simple Marketing LinkedIn Banner.png
 wwwroot\img\white_line_big.png
+wwwroot\img\Zaid.jpg
 wwwroot\img\إضافة عنوان فرعي.jpg
 wwwroot\js\Attendance.js
 wwwroot\js\compressed.js

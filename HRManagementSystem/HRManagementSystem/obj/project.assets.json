@@ -4970,11 +4970,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Orange\\Desktop\\HR Management System\\HRManagementSystem\\HRManagementSystem\\HRManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Orange\\Desktop\\HR Management System\\HR-Management-System\\HRManagementSystem\\HRManagementSystem\\HRManagementSystem.csproj",
       "projectName": "HRManagementSystem",
-      "projectPath": "C:\\Users\\Orange\\Desktop\\HR Management System\\HRManagementSystem\\HRManagementSystem\\HRManagementSystem.csproj",
+      "projectPath": "C:\\Users\\Orange\\Desktop\\HR Management System\\HR-Management-System\\HRManagementSystem\\HRManagementSystem\\HRManagementSystem.csproj",
       "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Orange\\Desktop\\HR Management System\\HRManagementSystem\\HRManagementSystem\\obj\\",
+      "outputPath": "C:\\Users\\Orange\\Desktop\\HR Management System\\HR-Management-System\\HRManagementSystem\\HRManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
